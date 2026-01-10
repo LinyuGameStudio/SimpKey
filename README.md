@@ -33,3 +33,7 @@ api-host: https://pass.simpfun.cn
 qr-timeout: 120
 # 轮询间隔 (秒)
 poll-interval: 1
+
+```
+###必读
+偷我uuid的人司马司爸司全家司亲戚
